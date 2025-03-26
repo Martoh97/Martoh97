@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Martoh97
 - 👀 I’m interested in Front-End web development
-- 🌱 I’m currently learning React and NextJs
 - 💞️ I’m looking to collaborate on many web development projects
 - 📫 You can reach me through mmurithi18@gmail.com
 - 😄 Pronouns: HE/HIM
