@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on many web development projects
 - 📫 You can reach me through mmurithi18@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I fear cats.Damn, why did i mention them, now am fearful.......
+- ⚡ Fun fact: I fear cats.
 
 <!---
 Martoh97/Martoh97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
