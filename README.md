@@ -1,11 +1,46 @@
-- 👋 Hi, I’m @Martoh97
-- 👀 I’m interested in Front-End web development
-- 💞️ I’m looking to collaborate on many web development projects
-- 📫 You can reach me through mmurithi18@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I fear cats.
+# 👋 Hi, I’m Martin Murithi.
 
-<!---
-Martoh97/Martoh97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a learner of the ALX FrontEnd Pro programme and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search.  
+
+This is why I started with software engineering, what I am passionate about and what inspires me:  
+👉 "To create modern websites to help small scale retailers reach a larger market pool".
+
+My aim is to be an expert in FrontEnd web development and that’s why I would like to work on many projects that will propell me to reach there.  
+
+---
+
+## 💡 About Me
+- 🌱 Currently learning at ALX FrontEnd Pro programme.  
+- 💻 Passionate about creating user-friendly websites.
+- ✨ Inspired by Michael Munavu.
+- 🎯 Vision: an expert in my work. 
+
+---
+
+## 🧑‍💻 Skills & Tools
+- HTML
+- CSS
+- JAVASCRIPT
+- FIGMA
+
+---
+
+## 📌 Featured Projects
+- https://github.com/Martoh97/Landing-page-project 
+- https://github.com/Martoh97/conference-ticket-generator 
+- https://github.com/Martoh97/conference-ticket-generator
+
+---
+
+## 🎓 Education & Training
+- ALX FrontEnd Pro — In progress  
+  
+
+---
+
+## 🤝 Let’s Connect
+- 📧 Email: mmurithi18@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/martin-murithi-4aa527223/
+  
+
+---
